@@ -1,4 +1,6 @@
-The following anecdote is told of William James. [...] After a lecture on cosmology and the structure of the solar system, James was accosted by a little old lady.
+The following anecdote is told of [William James](https://en.wikipedia.org/wiki/William_James) :
+
+After a lecture on cosmology and the structure of the solar system, James was accosted by a little old lady.
 
 "Your theory that the sun is the centre of the solar system, and the earth is a ball which rotates around it has a very convincing ring to it, Mr. James, but it's wrong. I've got a better theory," said the little old lady.
 
@@ -16,10 +18,9 @@ Not wishing to demolish this absurd little theory by bringing to bear the masses
 
 To this, the little old lady crowed triumphantly,
 
-"It's no use, Mr. James—it's turtles all the way down."
+"It's no use, Mr. James — it's turtles all the way down."
 
-
-
+---
 Ross, John R. (1967). 
 Constraints on variables in syntax (Doctoral dissertation).
 Massachusetts Institute of Technology.
