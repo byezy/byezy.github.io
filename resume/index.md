@@ -1,11 +1,22 @@
 # Resumé
 
-`Name` David Bye
+David Bye
 
-# About Me
++61499149482
 
-# Work History
+dbye68@gmail.com
 
-# Education
+## About Me
 
-# Referees
+## Work History
+
+## Education
+Bachelor of Surveying `University of Melbourne` 1987-1990
+
+Graduate Diploma in Computing `Monash University` x-y
+
+## Referees
+Tom Barratt
+a
+b
+c
