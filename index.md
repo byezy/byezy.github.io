@@ -1,3 +1,3 @@
 ## Welcome
 
-Click [contact](here) to contact me
+Click [contact.md](here) to contact me
