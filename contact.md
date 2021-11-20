@@ -25,7 +25,7 @@
         <label for="message">Message</label>
     </div>
     <div>
-        <textarea id="message" name="message" value="" required>Enter your message...</textarea>
+        <textarea id="message" name="message" value="" placeholder="Enter your message..." required></textarea>
     </div>
   
     <button>Send</button>
