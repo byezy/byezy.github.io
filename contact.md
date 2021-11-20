@@ -1,12 +1,14 @@
 
-<div style="display:flex; flex-direction:column;">
+<!-- <div style="display:flex; flex-direction:column;"> -->
 <label form="contact">Contact</label>
 <form id="contact" action="https://spatial.support/e/" method="post">
 
     <div>
-        <label for="name">Name<input id="name" type="text" value="" name="name"></label>
-        
-    </div>
+        <label for="name">Name</label>
+     </div>
+    <div>
+        <input id="name" type="text" value="" name="name">
+     </div>
 
     <div>
         <label for="email">Email</label>
@@ -25,6 +27,6 @@
   
   <button>Send</button>
 </form>
-</div>
+<!-- </div> -->
 
 
