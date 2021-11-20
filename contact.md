@@ -19,7 +19,7 @@
     </div>
     <div>
         <input id="subject" name="subject" type="text" value="" placeholder="Enter your subject" required>
-    </div
+    </div>
 
     <div>
         <label for="message">Message</label>
