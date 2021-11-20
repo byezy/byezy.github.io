@@ -4,8 +4,8 @@
 <form id="contact" action="https://spatial.support/e/" method="post">
 
     <div>
-        <label for="name">Name</label>
-        <input id="name" type="text" value="" name="name">
+        <label for="name">Name<input id="name" type="text" value="" name="name"></label>
+        
     </div>
 
     <div>
