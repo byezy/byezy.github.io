@@ -7,28 +7,28 @@
         <label for="name">Name</label>
     </div>
     <div>
-        <input id="name" type="text" value="" name="name">
+        <input id="name" name="name" type="text" value="" required>
     </div>
 
     <div>
         <label for="email">Email</label>
     </div>
     <div>
-        <input id="email" type="text" value="" name="email">
+        <input id="email" name="email" type="text" value="" required>
     </div>
     
     <div>
         <label for="subject">Subject</label>
     </div>
     <div>
-        <input id="subject" type="text" value="" name="subject">
+        <input id="subject" name="subject" type="text" value="" required>
     </div
         
     <div>
         <label for="message">Message</label>
     </div>
     <div>
-        <textarea id="message" name="message" value="">
+        <textarea id="message" name="message" value="" required>
     </div>
   
   <button>Send</button>
