@@ -6,7 +6,7 @@
         <label for="name">Name</label>
     </div>
     <div>
-        <input id="name" name="name" type="text" value="" required>
+        <input id="name" name="name" type="text" value="" placeholder="Enter your name" required>
     </div>
 
     <div>
