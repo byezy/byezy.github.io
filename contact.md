@@ -25,8 +25,11 @@
         <label for="message">Message</label>
     </div>
     <div>
-        <textarea id="message" name="message" value="" placeholder="Enter your message" cols="21" rows="10" required></textarea>
+        <textarea id="message" name="message" value="" placeholder="Enter your message" cols="21" rows="10" required>             </textarea>
     </div>
+    
+    <input type="hidden" id="returnLinkText" name="returnLinkText" value="byezy github page">
+    <input type="hidden" id="returnLinkUrl" name="returnLinkUrl" value="https://byezy.github.io">
   
     <button>Send</button>
 </form>
