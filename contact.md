@@ -1,4 +1,5 @@
 
+<label form="contact">Contact</label>
 <form id="contact" action="https://spatial.support/e/" method="post">
 
     <div style="float:left;margin-right:20px;">
