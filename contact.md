@@ -1,5 +1,4 @@
 
-<!-- <div style="display:flex; flex-direction:column;"> -->
 <label form="contact">Contact</label>
 <form id="contact" action="https://spatial.support/e/" method="post">
 
@@ -16,14 +15,14 @@
     <div>
         <input id="email" name="email" type="text" value="" required>
     </div>
-    
+
     <div>
         <label for="subject">Subject</label>
     </div>
     <div>
         <input id="subject" name="subject" type="text" value="" required>
     </div
-        
+
     <div>
         <label for="message">Message</label>
     </div>
@@ -31,8 +30,7 @@
         <textarea id="message" name="message" value="" required>
     </div>
   
-  <button>Send</button>
+    <button>Send</button>
 </form>
-<!-- </div> -->
 
 
