@@ -1,14 +1,30 @@
 
 <form action="https://spatial.support/e/" method="post">
-  <label for="name">Your name</label>
-  <input type="text" id="name" name="name" placeholder="Enter your name" required>      
-  <br>
-  <label for="email">Your email address</label>
-  <input type="text" id="email" name="email" placeholder="Enter your email address" required>
-  <br>
-  <label for="message">Your message</label>
-  <textarea id="message" name="message" placeholder="Enter your message" required></textarea>
-  <br>
+  <section>
+
+    <div style="float:left;margin-right:20px;">
+      <label for="name">Name</label>
+      <input id="name" type="text" value="" name="name">
+    </div>
+
+    <div style="float:left;">
+      <label for="email">Email</label>
+      <input id="email" type="text" value="" name="email">
+    </div>
+
+    <br style="clear:both;" />
+
+  </section>
+
+  <section>
+
+    <label for="subject">Subject</label>
+    <input id="subject" type="text" value="" name="subject">
+    <label for="message">Message</label>
+    <input id="message" type="text" value="" name="message">
+
+  </section>
+  
   <button>Send</button>
 </form>
 
